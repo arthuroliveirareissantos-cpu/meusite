@@ -22,7 +22,10 @@
         <section id="sobre">
           <h2>Sobre mim</h2>
 <p>Eu gosto de jogar futsal e tênis de mesa.Eu escolhi a informática porque eu sempre tive interesse na área da computação e programação..</p>
-<h3>•Programação •Desenvolvimento de sites •Montagem de computadores •Manutenção de computadores </h3>
+<h3>•Programação 
+    •Desenvolvimento de sites 
+    •Montagem de computadores 
+    •Manutenção de computadores </h3>
 <ul>
     <li>HTML e CSS</li>
     <li>Git e GitHub</li>
